@@ -156,3 +156,4 @@ https://pay.binance.com/en/checkout/e92e536210fd4f62b426ea7ee65b49c3
 # Stars
 
 ![](https://starchart.cc/juancarlospaco/binance-trade-zen.svg)
+:star: [@juancarlospaco](https://github.com/juancarlospaco '2022-03-09')	
