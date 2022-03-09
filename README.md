@@ -19,7 +19,16 @@
 ![](after.png)
 
 
+# Download
+
+Download a ready-to-use packed web browser extension:
+
+https://github.com/juancarlospaco/binance-trade-zen/raw/nim/binance-trade-zen.crx
+
+
 # Build for Chromium
+
+If you do not trust the packed web browser extension for whatever reason, you can build it yourself:
 
 - Compile `nim js -d:danger index.nim`.
 - Open `chrome://extensions` in Chromium.
@@ -29,6 +38,8 @@
 
 
 # Build for Firefox
+
+If you do not trust the packed web browser extension for whatever reason, you can build it yourself:
 
 - Compile `nim js -d:danger index.nim`.
 - Open `about:debugging#/runtime/this-firefox` in Firefox.
