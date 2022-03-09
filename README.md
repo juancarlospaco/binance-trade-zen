@@ -33,7 +33,7 @@ this web browser extensions simplifies [Binance trading](https://github.com/juan
 - See also https://github.com/juancarlospaco/cloudbet#cloudbet
 
 
-# Toss a Coin to your witcher
+# Toss a Coin to your witcher 💰➡️🍕
 
 <details>
 <summary title="Send Bitcoin"><kbd> Bitcoin BTC </kbd></summary>
