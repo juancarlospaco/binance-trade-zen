@@ -19,9 +19,22 @@
 ![](after.png)
 
 
-# Build
+# Build for Chromium
 
-- Run `nim js -d:danger index.nim`
+- Compile `nim js -d:danger index.nim`.
+- Open `chrome://extensions` in Chromium.
+- Enable `Developer mode`, click on `Load Unpacked` button.
+- Open the folder of this repo.
+- Restart browser and go to https://www.binance.com/en/trade/BTC_USDT?layout=basic
+
+
+# Build for Firefox
+
+- Compile `nim js -d:danger index.nim`.
+- Open `about:debugging#/runtime/this-firefox` in Firefox.
+- Click on `Load Temporary Addon` button.
+- Open the folder of this repo.
+- Restart browser and go to https://www.binance.com/en/trade/BTC_USDT?layout=basic
 
 
 # Why
