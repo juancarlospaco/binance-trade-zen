@@ -51,6 +51,7 @@ I can not find a working web browser extension that simplifies [Binance trading]
 I just need the trading form, [I do the technical analisys in TradingView](https://github.com/juancarlospaco/tradingview#tradingview),
 like lots of people do, so I do not really need the limited [Binance trading](https://github.com/juancarlospaco/binance#binance) charts,
 I get updates and info at cryptopanic, so I do not need the rest of the info in Binance UI neither,
+I tried forcing the "mobile view" in the desktop browser but the UI was terrible too,
 this web browser extensions simplifies [Binance trading](https://github.com/juancarlospaco/binance#binance) to just the trading form.
 
 
