@@ -14,6 +14,11 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
+    - name: Set Environment Variables
+      uses: allenevans/set-env@v2.0.0
+      with:
+        ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+
     - uses: jiro4989/setup-nim-action@v1.0.2
       with:
         nim-version: ${{ matrix.nim-channel }}
