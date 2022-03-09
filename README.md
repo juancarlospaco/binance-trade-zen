@@ -1,22 +1,19 @@
 # Binance-Trade-Zen
 
-- [Binance trading](https://github.com/juancarlospaco/binance#binance) simplified, just the trading form, hide all the clutter.
+**Before**
+
+![](before.png)
+
+
+**After**
+
+![](after.png)
 
 ![](https://img.shields.io/github/languages/top/juancarlospaco/binance-trade-zen?style=for-the-badge)
 ![](https://img.shields.io/github/stars/juancarlospaco/binance-trade-zen?style=for-the-badge)
 ![](https://img.shields.io/github/languages/code-size/juancarlospaco/binance-trade-zen?style=for-the-badge)
 ![](https://img.shields.io/github/issues-raw/juancarlospaco/binance-trade-zen?style=for-the-badge)
 ![](https://img.shields.io/github/issues-pr-raw/juancarlospaco/binance-trade-zen?style=for-the-badge)
-
-
-# Before
-
-![](before.png)
-
-
-# After
-
-![](after.png)
 
 
 # Download
