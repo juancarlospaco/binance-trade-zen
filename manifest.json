@@ -1,0 +1,21 @@
+{
+  "name":             "BinanceTradeZen",
+  "short_name":       "BinanceTradeZen",
+  "version":          "0.1",
+  "manifest_version": 2,
+  "description":      "Binance Trading Simplified, just the trading form, hide all the clutter, plugin written in Nim",
+  "author":           "Juan_Carlos",
+  "homepage_url":     "https://github.com/juancarlospaco",
+  "content_scripts":  [{
+    "matches":        ["https://www.binance.com/en/trade/*?layout=basic", "https://www.binance.com/es/trade/*?layout=basic"],
+    "js":             ["index.js"],
+    "all_frames":     true
+  }],
+  "permissions":      ["tabs"],
+  "icons": {
+    "16":             "icon16.png",
+    "32":             "icon32.png",
+    "48":             "icon48.png",
+    "128":            "icon128.png"
+  }
+}
