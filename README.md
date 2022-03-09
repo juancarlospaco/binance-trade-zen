@@ -19,6 +19,11 @@
 ![](after.png)
 
 
+# Build
+
+- Run `nim js -d:danger index.nim`
+
+
 # Why
 
 I can not find a working web browser extension that simplifies [Binance trading](https://github.com/juancarlospaco/binance#binance) UI,
@@ -33,7 +38,7 @@ this web browser extensions simplifies [Binance trading](https://github.com/juan
 - See also https://github.com/juancarlospaco/cloudbet#cloudbet
 
 
-# Toss a Coin to your witcher 💰➡️🍕
+# Toss a coin to your witcher 💰➡️🍕
 
 <details>
 <summary title="Send Bitcoin"><kbd> Bitcoin BTC </kbd></summary>
