@@ -51,8 +51,9 @@ If you do not trust the packed web browser extension for whatever reason, you ca
 # Why
 
 I can not find a working web browser extension that simplifies [Binance trading](https://github.com/juancarlospaco/binance#binance) UI,
-I just need the trading form, [I do the technical analisys in TradinView](https://github.com/juancarlospaco/tradingview#tradingview),
+I just need the trading form, [I do the technical analisys in TradingView](https://github.com/juancarlospaco/tradingview#tradingview),
 like lots of people do, so I do not really need the limited [Binance trading](https://github.com/juancarlospaco/binance#binance) charts,
+I get updates and info at cryptopanic, so I do not need the rest of the info in Binance UI neither,
 this web browser extensions simplifies [Binance trading](https://github.com/juancarlospaco/binance#binance) to just the trading form.
 
 
@@ -156,4 +157,4 @@ https://pay.binance.com/en/checkout/e92e536210fd4f62b426ea7ee65b49c3
 # Stars
 
 ![](https://starchart.cc/juancarlospaco/binance-trade-zen.svg)
-:star: [@juancarlospaco](https://github.com/juancarlospaco '2022-03-09')	
+:star: [@juancarlospaco](https://github.com/juancarlospaco '2022-03-09')
